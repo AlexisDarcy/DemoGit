@@ -1,7 +1,7 @@
 # Memo Commande Git
 ## Liste des commandes Git:
 
-![GitHub Logo](http://www.mpass.fi/wp-content/uploads/2016/09/github-social.png)
+![GitHub Logo](https://i.imgur.com/sk2SYH6.png)
 
 1. Comment initialiser sont Git :
     * *$ git init*
@@ -24,3 +24,5 @@
       > Permets d'ajouter un fichier au dépot
     * *$ git branch nombranche*
       > Crée une nouvelle branche
+
+![GitHub Logo](http://www.mpass.fi/wp-content/uploads/2016/09/github-social.png)
