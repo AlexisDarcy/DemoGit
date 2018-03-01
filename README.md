@@ -8,17 +8,19 @@
       > Permet initialiser sont dépot
 2. Comment configurer sont Git :
     * *$ git config --global user.name "[name]"*
-      > Permet de renseigner son nom
+      > Permets de renseigner son nom
     * *$ git config --global user.mail "[mail]"*
-      > Permet de renseigner son mail
+      > Permets de renseigner son mail
 3. Liste de quelle commande Git:
     * *$ git status*
-      > Liste les diferences
+      > Liste les différences
     * *$ git diff*
-      > Permet de voir les differences entre les fichier
+      > Permets de voir les différences entre les fichier
     * *$ git add [file]*
-      > Permet d'ajouter un nouveau fichier 
+      > Permets d'ajouter un nouveau fichier
     * *$ git reset [file]*
-      > Permet de supprimer l'historique d'un fichier
+      > Permets de supprimer l'historique d'un fichier
     * *$ git commit -m "[message]"*
-      > Permet d'ajouter un fichier au dépot
+      > Permets d'ajouter un fichier au dépot
+    * *$ git branch nombranche*
+      > Crée une nouvelle branche
